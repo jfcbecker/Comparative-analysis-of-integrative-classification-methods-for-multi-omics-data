@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article."
+title: "Comparative analysis of integrative classification methods for multi-omics data"
+type: software
+authors:
+  - family-names: Novoloaca
+    given-names: Alexei
+    affiliation: "BIOASTER Research Institute, 40 avenue Tony Garnier, F-69007 Lyon, France"
+  - family-names: Broc
+    given-names: Camilo
+    affiliation: "BIOASTER Research Institute, 40 avenue Tony Garnier, F-69007 Lyon, France"
+  - family-names: Beloeil
+    given-names: Laurent
+    affiliation: "BIOASTER Research Institute, 40 avenue Tony Garnier, F-69007 Lyon, France"
+  - family-names: Yu
+    given-names: Wen-Han
+    affiliation: "Bill & Melinda Gates Medical Research Institute, Cambridge, Massachusetts, MA 02139, United States"
+  - family-names: Becker
+    given-names: Jérémie
+    affiliation: "BIOASTER Research Institute, 40 avenue Tony Garnier, F-69007 Lyon, France"
+preferred-citation:
+  type: article
+  title: "Comparative analysis of integrative classification methods for multi-omics data"
+  authors:
+    - family-names: Novoloaca
+      given-names: Alexei
+    - family-names: Broc
+      given-names: Camilo
+    - family-names: Beloeil
+      given-names: Laurent
+    - family-names: Yu
+      given-names: Wen-Han
+    - family-names: Becker
+      given-names: Jérémie
+  journal: "Briefings in Bioinformatics"
+  volume: 25
+  issue: 4
+  start: bbae331
+  year: 2024
+  month: 7
+  doi: 10.1093/bib/bbae331
+  url: "https://academic.oup.com/bib/article/25/4/bbae331/7710310"
+keywords:
+  - benchmark
+  - data integration
+  - multi-omics data
+  - prediction models
+  - supervised analysis
